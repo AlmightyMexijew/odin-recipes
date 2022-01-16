@@ -1,0 +1,36 @@
+This space is where notes made during the process of creation will be created.
+I will do my best to maintain details according to changes/times.
+
+Setup
+*Establish repo
+*Link repo
+*Edit README.md 
+--commit--
+
+Phase 1 / Iteration 1
+*create dir for odin-recipes locally
+*create index.html file for main page
+*boilerplate index.html up
+*add h1 in body "Odin Recipes"
+--commit--
+
+Phase 2/ Iteration 2
+*create recipe dir called "recipes"
+*create an html file in recipes named for a dish to be featured
+*include h1 heading with recipe's name
+*link to index.html
+--commit--
+
+Phase 3/ Interation 3
+Meant to establish page content
+Order of image, description, ingredients, steps
+*image == https://i.redd.it/rdnx7gqhsmh61.jpg
+(sidenote): This image displays incredibly large on our page and may be swapped out if we cannot find a solution.
+*description: our description of what chili is (who doesn't like chili?!)
+*ingredients: our unordered list (<ul> tag,<li> items)
+*steps: our ordered list (<ol>tag,<li> items) how to make the chili
+
+While adding items to the ul I looked at how other pages fit their pictures. With some minor research it was discovered that the size attributes would help.
+Therefore, I set the picture's width and height to 500x500 and achieved a passable first commit level.
+I also decided to add another heading size for the ingredients to define it better to the page.
+--commit--
