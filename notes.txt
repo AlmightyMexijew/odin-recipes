@@ -48,3 +48,9 @@ Pick 2 new recipes to add:
 *Organized them according to the structure: name header, picture, description, ingredients, steps
 *green smoothie picture: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5352794.jpg&w=596&h=596&c=sc&poi=face&q=85
 *pizza picture: https://i.redd.it/qakvcd1a3nb81.jpg
+
+--commit of green smoothie--
+boilerplated pizza.html and began work
+resized picture to fit better at 300x300
+added ingredient list
+--commit 1 of pizza--
