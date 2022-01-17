@@ -58,3 +58,5 @@ realized sauce missing, updated that.
 Updated the ingredient list slightly and put how-to.
 Updated index.html to have ul of 3 links, one to each recipe.
 --commit 2 of pizza--
+minor adjustments in linking, notes updated
+commit 3.
